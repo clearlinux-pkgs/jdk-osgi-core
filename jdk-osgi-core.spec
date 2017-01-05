@@ -1,6 +1,6 @@
 Name     : jdk-osgi-core
 Version  : 4.3.1
-Release  : 1
+Release  : 2
 URL      : http://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
 Source0  : http://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
 Source1  : http://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
